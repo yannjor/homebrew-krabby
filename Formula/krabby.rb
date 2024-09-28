@@ -1,8 +1,8 @@
 class Krabby < Formula
   desc "Print pokemon sprites in your terminal"
   homepage "https://github.com/yannjor/krabby"
-  url "https://github.com/yannjor/krabby/archive/refs/tags/v0.1.8.tar.gz"
-  sha256 "346f44b2c38084413da6aeadff5d87f1cc3ab60275653d95921ca6488e3210e3"
+  url "https://github.com/yannjor/krabby/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "574d1327f5632031907401a724551f7f94c39861fdbb78736907c8514cf7ccb8"
   license "GPL-3.0-or-later"
 
   depends_on "rust" => :build
